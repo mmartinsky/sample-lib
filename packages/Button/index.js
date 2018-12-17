@@ -8,7 +8,7 @@ export default class Button extends Component {
   }
 
   static defaultProps = {
-      buttonText: 'Click Me'
+      buttonText: 'Click Me Again'
   }
 
   render() {

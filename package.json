@@ -1,5 +1,5 @@
 {
-  "name": "@mtm/sample-lib",
+  "name": "@mtm112/sample-lib",
   "private": true,
   "devDependencies": {
     "lerna": "^3.4.3"
