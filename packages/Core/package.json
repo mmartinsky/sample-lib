@@ -1,6 +1,6 @@
 {
   "name": "@mtm112/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sample Core package",
   "main": "dist/index.js",
   "publishConfig": {
@@ -24,6 +24,6 @@
   "gitHead": "9fbfb4d4703d8741fdae5891e5eca8975a3f8cae",
   "dependencies": {
     "@mtm112/button": "^1.0.6",
-    "@mtm112/ticker": "^1.0.1"
+    "@mtm112/ticker": "^1.0.2"
   }
 }
