@@ -1,5 +1,5 @@
 {
-  "name": "@mtm112/Button",
+  "name": "@mtm112/button",
   "version": "1.0.1",
   "description": "Sample Button",
   "main": "index.js",
@@ -13,5 +13,5 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   },
-  "gitHead": "9887828fa52d83325490a187ec3e19b8e45af4c7"
+  "dependencies": {}
 }
