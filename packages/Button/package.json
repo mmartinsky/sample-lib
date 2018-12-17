@@ -1,6 +1,6 @@
 {
   "name": "@mtm112/button",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sample Button",
   "main": "index.js",
   "publishConfig": {
