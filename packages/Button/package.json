@@ -7,7 +7,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "babel index.js -d dist",
+    "build": "babel src -d dist --copy-files",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Martinsky",
