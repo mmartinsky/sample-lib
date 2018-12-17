@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@mtm112/core": "^1.0.1",
+    "@mtm112/grid": "^1.0.1",
+    "ag-grid-community": "^19.1.4",
+    "ag-grid-react": "^19.1.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
